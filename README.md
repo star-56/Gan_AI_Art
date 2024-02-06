@@ -1,2 +1,2 @@
-# Gan_AI_Art
-Minor Project GAN generated ARTWORK relted to the context created by End User
+# Poetic Narratives: A Generative AI System for Poetry Generation, Visualization, and Narration
+Minor Project 
